@@ -1,0 +1,49 @@
+"#question": {
+	width:'100%',
+	top: '100dp',
+	visible: false,
+	bottom: '0dp'
+},
+".container": {
+	height: '90dp',
+	bottom: '0dp',
+	width:'100%',
+	backgroundColor: '#EEE',
+}
+"#text": {
+	top:'10dp',
+	bottom: '10dp',
+	left:'22%',
+	width:'56%',
+	hintText: 'Haz una pregunta',
+	backgroundColor: '#EEE',
+	tintColor: 'black',
+	color: 'black',
+
+	font: {
+ 		fontSize:"25dp",
+ 		fontFamily: "Aracne Regular"
+ 	}
+},
+"#send": {
+	right:'0',
+	height: '100%',
+	width: '20%',
+	backgroundColor: 'black',
+	color: 'white',
+	font: {
+ 		fontSize:"30dp",
+ 		fontFamily: "Aracne Regular"
+ 	}
+},
+"#guess": {
+	left:'0',
+	height: '100%',
+	width: '20%',
+	backgroundColor: 'black',
+	color: 'white',
+	font: {
+ 		fontSize:"30dp",
+ 		fontFamily: "Aracne Regular"
+ 	}
+}

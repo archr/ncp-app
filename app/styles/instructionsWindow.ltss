@@ -1,0 +1,9 @@
+"Window": {
+	backgroundColor: "white"
+},
+"Label": {
+	font: {
+		fontSize:"100dp",
+ 		fontFamily: "Aracne Regular"
+	}
+}

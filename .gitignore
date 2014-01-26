@@ -1,0 +1,14 @@
+node_modules/*
+ncp.sublime*
+Resources/
+spec
+build/*
+
+app/views/**/*.xml
+app/styles/**/*.tss
+app/controllers/**/*.js*
+app/models/*.js*
+app/*.js
+app/*js.*
+app/lib/*.js*
+build.log

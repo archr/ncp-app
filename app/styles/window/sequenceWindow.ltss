@@ -1,0 +1,54 @@
+"Window": {
+	backgroundColor: "white",
+	layout: 'vertical'
+},
+".board": {
+	width:"700dp",
+	height: "300dp",
+	backgroundColor: "white",
+	top: "100dp",
+	layout:'horizontal'
+},
+".card": {
+	width:"200dp",
+	height: "300dp",	
+	backgroundColor: "black"
+},
+"#card1": {
+	
+},
+"#card2": {
+	left:"50dp"
+},
+"#card3": {
+	left:"50dp"	
+},
+".subtitle": {
+	font: {
+ 		fontSize:"60dp",
+ 		fontFamily: "Aracne Regular"
+ 	},
+ 	top: "50dp"
+},
+".complicatedBoard": {
+	top: '50px',
+	width:'440px',
+	height: '80px',
+	layout: 'horizontal'
+}
+".punctuationImg": {
+	height: '80dp',
+	width: '80dp',
+	backgroundColor: 'black'
+},
+".left": {
+	left: "40dp"
+},
+".exit": {
+	font: {
+ 		fontSize:"30dp",
+ 		fontFamily: "Aracne Regular"
+ 	},
+ 	top: "80dp",
+ 	left: "30dp"
+}

@@ -1,0 +1,57 @@
+"Window": {
+	backgroundColor: 'white'
+},
+ "#title": {
+ 	font: {
+ 		fontSize:"100dp",
+ 		fontFamily: "Aracne Regular"
+ 	},
+ 	top: "130dp",
+ 	color: "#DC0D47"
+ },
+ ".start": {
+ 	font: {
+ 		fontFamily: "Aracne Regular",
+ 		fontSize: "30dp"
+ 	},
+ 	right: 0,
+ 	backgroundColor: 'black',
+ 	color: 'white',
+ 	height: '60dp',
+ 	width: '150dp',
+ 	textAlign: 'center'
+ },
+ ".nicknameView": {
+ 	width: '500dp',
+ 	height: '60dp' 
+ },
+ "#nickname": {
+ 	hintText: 'Usuario',
+ 	color: "black",
+ 	font: {
+ 		fontFamily: "Aracne Regular",
+ 		fontSize: "30dp"
+ 	},
+ 	left:0,
+ 	backgroundColor: '#EEE',
+ 	height: '60dp',
+ 	width: '250dp',
+ 	textAlign: 'center'
+ },
+ "#notification": {
+ 	width: '100%',
+ 	height: '100%',
+ 	visible:false
+ },
+ ".shadow": {
+ 	opacity:0.5,
+ 	backgroundColor: 'black'
+ },
+ "#message": {
+ 	font: {
+ 		fontFamily: "Aracne Regular",
+ 		fontSize: "30dp"
+ 	},
+ 	text: '...',
+ 	color: 'white'
+ }

@@ -1,0 +1,23 @@
+"View": {
+	width: '660dp',
+	height:'60dp',
+	bottom: '160dp',
+	layout: 'horizontal',
+	visible: false
+},
+"Button": {
+	width: '200dp',
+	height: '60dp',
+	backgroundColor: 'black',
+	color: 'white',
+	font: {
+ 		fontSize:"40dp",
+ 		fontFamily: "Aracne Regular"
+ 	}
+},
+"#no": {
+	left: '30dp'
+},
+"#maybe": {
+	left: '30dp'
+}

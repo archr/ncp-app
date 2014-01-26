@@ -1,0 +1,40 @@
+"Window": {
+	backgroundColor: "white"
+},
+".board": {
+	width:"500dp",
+	height: "200dp",
+	backgroundColor: "white",
+	top: "200dp",
+	layout:'horizontal'
+},
+".card": {
+	width:"140dp",
+	height: "200dp",	
+	borderColor: "black",
+	borderWidth:1
+},
+"#card1": {
+	image: 'images/card1.png'
+},
+"#card2": {
+	left:"40dp",
+	image: 'images/card2.png'
+},
+"#card3": {
+	left:"40dp",
+	image: 'images/card3.png'
+},
+".notifications": {
+	backgroundColor: '#DDD',
+	width:'80%',
+	height:'100dp',
+	top:'50dp'
+},
+"#notificaton": {
+	font: {
+ 		fontSize:"30dp",
+ 		fontFamily: "Aracne Regular"
+ 	},
+ 	text: 'notificaton'
+}

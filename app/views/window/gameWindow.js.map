@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "gameWindow.js",
+  "sourceRoot": "",
+  "sources": [
+    "gameWindow.coffee"
+  ],
+  "names": [],
+  "mappings": "AAoCoB"
+}

@@ -1,0 +1,2 @@
+showSequence = ->
+	$.instructionsWindow.close()
